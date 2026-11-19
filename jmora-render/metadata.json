@@ -1,0 +1,6 @@
+{
+  "name": "JMORA — Athletic Lifestyle & Interactive Training",
+  "description": "Minimalist bilingual fitness, interactive muscle anatomy guide, personalized workout & nutrition planner, and athletic gear storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
